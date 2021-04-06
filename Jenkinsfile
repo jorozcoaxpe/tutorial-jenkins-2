@@ -2,7 +2,7 @@
 
 node {
    // ------------------------------------
-   // -- ETAPA: Compilar
+   // -- ETAPA: Build / Compilar --
    // ------------------------------------
    stage 'Build / Compilacion'
    
